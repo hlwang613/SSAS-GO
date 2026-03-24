@@ -2,7 +2,7 @@
 
 This repository contains the official PyTorch implementation of **SSAS-GO** (Structure-Sequence Adaptive Synergy for Gene Ontology).
 
-SSAS-GO is a multimodal deep learning framework designed for large-scale protein function prediction. To address the "negative transfer" problem between structure-dependent tasks (e.g., Biological Process) and sequence-dependent tasks (e.g., Molecular Function), SSAS-Net introduces a **Task-Aware Cross-Modal Gating Mechanism**. It dynamically balances representations from a **Dual-Stream GNN** (capturing global and local structural topology) and a **Multi-Scale Motif Block** (capturing sequential motifs).
+SSAS-GO is a multimodal deep learning framework designed for large-scale protein function prediction. SSAS-Net introduces a **Task-Aware Cross-Modal Gating Mechanism**. It dynamically balances representations from a **Dual-Stream GNN** (capturing global and local structural topology) and a **Multi-Scale Motif Block** (capturing sequential motifs).
 
 ## Dependencies and Environment Setup
 
