@@ -181,7 +181,7 @@ class SSAS_Net(nn.Module):
         h_struct, _ = self.struct_encoder(g, h_esm, return_node_feat=True) # [N, 512]
         
        
-        h_seq = self.seq_encoder(h_esm.unsqueeze(1)).squeeze(1) # [N, 512]
+        h_seq = self.seq_encoder(h_esm.unsqueeze(0)).squeeze(0) # [N, 512]
         
         
         cat_feat = torch.cat([h_struct, h_seq], dim=-1)
