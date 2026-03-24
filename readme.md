@@ -74,7 +74,7 @@ To evaluate the trained models, run `test.py`. The script will automatically loa
 
 ```bash
 # Test on the standard PDB test set for CC task
-python test.py --task cc --model model_cc_CL --AF2test False --test_type test
+python test.py --task cc --model model_cc_CLFA --AF2test False --test_type test
 
 # Test on the AF2 specific test set for MF task
 python test.py --task mf --model model_mf_CLAF --AF2test True --test_type AF2test
