@@ -93,6 +93,6 @@ Evaluation metrics are strictly implemented based on the CAFA challenge protocol
 * `config.py`: Global configuration and hyperparameter settings.
 * `utils.py`: Helper functions, PDB/FASTA parsers, result merging.
 ## Cite
-
+Dong Wang, Hailong Wang, Tao Jiang, Bin Lu, Fujun Xiang, Qiang Wang, SSAS-GO: structure-sequence adaptive synergy network for protein function prediction, Briefings in Bioinformatics, Volume 27, Issue 4, July 2026, bbag408, https://doi.org/10.1093/bib/bbag408
 
 
