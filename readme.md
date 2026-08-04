@@ -94,10 +94,11 @@ Evaluation metrics are strictly implemented based on the CAFA challenge protocol
 * `utils.py`: Helper functions, PDB/FASTA parsers, result merging.
 ## Cite
 If you use the code in this repository in your research, please cite our paper:
+
 SSAS-GO: structure-sequence adaptive synergy network for protein function prediction 
-```bash
-Dong Wang, Hailong Wang, Tao Jiang, Bin Lu, Fujun Xiang, Qiang Wang, SSAS-GO: structure-sequence adaptive synergy network for protein function prediction, Briefings in Bioinformatics, Volume 27, Issue 4, July 2026, bbag408, https://doi.org/10.1093/bib/bbag408
-```
+
+* Dong Wang, Hailong Wang, Tao Jiang, Bin Lu, Fujun Xiang, Qiang Wang, SSAS-GO: structure-sequence adaptive synergy network for protein function prediction, Briefings in Bioinformatics, Volume 27, Issue 4, July 2026, bbag408, https://doi.org/10.1093/bib/bbag408 * 
+
 
 
 
