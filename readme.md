@@ -10,7 +10,7 @@ This project uses PyTorch, Deep Graph Library (DGL). We provide an `environment.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/SSAS-GO.git
+git clone https://github.com/hlwang613/SSAS-GO.git
 cd SSAS-GO
 
 # Create the conda environment from the provided yaml file
